@@ -1,0 +1,8 @@
+                                                                                                                                                                              # No external dependencies required
+# Uses only Python standard library:
+# - tkinter (GUI)
+# - socket (networking)
+# - threading (concurrency)
+# - json (data serialization)
+# - time (timer functionality)
+# - datetime (timestamps)
